@@ -36,6 +36,8 @@ An AI-powered application that processes documents and generates concise summari
 
 **Tech Stack:** React.js, FastAPI, Python, AI
 
+Try it out here: https://document-summary-assistant-taupe.vercel.app
+
 ### 🚗 CityDrift – Carpooling Platform
 
 A full-stack carpooling platform that allows users to host, discover, and book rides.
@@ -53,6 +55,8 @@ A machine learning project that predicts the likelihood of diabetes using the Pi
 A web-based project focused on creating an interactive and engaging user experience.
 
 **Tech Stack:** JavaScript, HTML, CSS
+
+Try it out here: https://dreamverse-wt.lovable.app/
 
 ### 🎮 Memory Game
 
